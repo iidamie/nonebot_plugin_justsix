@@ -15,7 +15,7 @@ pip install nonebot_plugin_juatsix
 
 * 使用git clone（不推荐）
 ```shell
-git clone https://github.com/maxesisn/nonebot_plugin_songpicker2
+git clone https://github.com/iidamie/nonebot_plugin_justsix
 ```
 
 ## 开始使用
